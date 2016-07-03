@@ -2,7 +2,7 @@
 
 Texto provisorio.
 
-El proyecto busca imitar a la Cooperativa Integral Catalana, se puede leer sobre la CIC en su [página web](http://cooperativa.cat/es/). Otro documento importante es el panfleto de [Rebelaos](Rebelaos.md).
+El proyecto busca imitar a la Cooperativa Integral Catalana, se puede leer sobre la CIC en su [página web](http://cooperativa.cat/es/). Otro documento importante es el panfleto de [Rebelaos](rebelaos.html).
 
 ## Organización
 
