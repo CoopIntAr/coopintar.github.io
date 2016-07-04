@@ -51,7 +51,7 @@ Tareas:
 Estas son algunas decisiones tomadas que podrán ser modificadas conforme  se sumen mas personas:
 
 - Mantener este documento con toda la informacion necesaria en GitHub.
-- Mantener una página en Facebook
+- Mantener una [página en Facebook](https://www.facebook.com/Cooperativa-Integral-Argentina-1544063719231288)
 
 ### A decidir
 
