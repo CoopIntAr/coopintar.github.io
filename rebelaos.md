@@ -2,6 +2,8 @@
 layout: page
 title: Rebelaos
 permalink: /rebelaos.html
+sitemap:
+    priority: 0.5
 ---
 
 # !Rebelaos! ... y germinemos la semilla de la revolución integral

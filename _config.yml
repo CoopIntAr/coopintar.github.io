@@ -10,7 +10,7 @@ title: Cooperativa Integral - Argentina
 email: no@tenemos.com
 description:  Proyecto inspirado en la Cooperativa Integral Catalana (CIC).
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://coopintar.github.com" # the base hostname & protocol for your site
+url: "https://coopintar.github.com" # the base hostname & protocol for your site
 twitter_username: CoopIntAr
 github_username: CoopIntAr
 
